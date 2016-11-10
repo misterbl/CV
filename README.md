@@ -2,14 +2,14 @@
 
 I  am Junior Full Stack Developer.
 
-Recent graduate from one of the most successful dev bootcamps globally, my previous experience iss made of a solid background in recruitment, client relationship and team management.
+Recent graduate from one of the globally most successful dev bootcamps, my previous experience is made of a solid background in recruitment, client relationship and team management.
 I have strong experience in following agile methodology for projects development, working comfortably on my own and within a team.
 
 ## Skills
 Communication
 
-Throughout my career, I have learned how to deal with internal and external clients at all levels. I have worked and lived in 3 different countries, which helped me adapt very quickly to new environment.
-I fluently speak French, English and Spanish, and master public speeches and team management.
+Throughout my career, I have learned how to deal with internal and external clients at all levels. I have worked and lived in 3 different countries, which helped me adapt very quickly to new environments.
+I speak fluent French, English and Spanish, and master public speeches and team management.
 
 Positive and ambitious
 
@@ -36,7 +36,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
-- During my time at Makers Academy,Working with 3 fellow students, we learn new technologies(Node JS, Express, Sequelize) and built a an MVP of copy of the website AirBnbin only 5 days!
+- During my time at Makers Academy,Working with 3 fellow students, we learned new technologies(Node JS, Express, Sequelize) and built a MVP of a copy of the website AirBnb in only 5 days!
 - I contributed to the growth of the company Careerjet Ltd, recruiting hard to find profiles
 - Please find all my most recent projects here : # [Laurent Bouhnik](https://www.laurentbouhnik.com)
 
@@ -58,17 +58,17 @@ A 16-week software development bootcamp.
 - Economy
 
 
-#### Any other qualifications
+#### Other qualifications
 CELTA (Certificate in Teaching English to Speakers of Other Languages)
 Cambridge University Press
 
 ## Experience
 
 **Careerjet Ltd, London, UK** (September 2015 to September 2016)    
-*HR, Internal Recruiter & Internal Communication Executive*  
+*HR, Internal Recruiter & Internal Communication Executive for this job search engine*  
 
 **Amelie's, Mexico City, Mexico** (September 2013 to June 2015)   
-*Founder & CEO*  
+*Founder & CEO of this breakfast and lunch delivery company*  
 
 **English Teacher, Barcelona, Spain** (September 2011 to June 2013)   
 
