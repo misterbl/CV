@@ -48,7 +48,7 @@ A 16-week software development bootcamp.
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js, Sequelize, Express, DataMapper
+- Ruby, Rails, Javascript, Node.js, Sequelize, Express, DataMapper
 - Rspec, Jasmine, Mocha
 
 #### HND Business communication, Nice, France
