@@ -24,17 +24,9 @@ During my time at Makers Academy, in only 12 weeks, I have learned so many new t
 Entrepreneur
 
 I have created a food delivery business in Mexico. I managed the whole process from creating the brand, menu to marketing, recruiting, managing the staff and financial forecast.
-#### This Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
-
-#### Latest achievevements
 
 
+#### Latest achievements
 
 - During my time at Makers Academy:
     Working with 3 fellow students, we learned new technologies(Node JS, Express, Sequelize) and built a MVP of a copy of the website AirBnb in only 5 days!
