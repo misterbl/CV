@@ -32,13 +32,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Achievements
 - Evidence
 
-#### Another Skill
+#### Latest achievevements
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
-- During my time at Makers Academy,Working with 3 fellow students, we learned new technologies(Node JS, Express, Sequelize) and built a MVP of a copy of the website AirBnb in only 5 days!
+
+- During my time at Makers Academy:
+    Working with 3 fellow students, we learned new technologies(Node JS, Express, Sequelize) and built a MVP of a copy of the website AirBnb in only 5 days!
+    On, another week, we development a chrome extension that help developers (and the general public) find answer to PAQs.
+  Please find all my most recent projects here : # [Laurent Bouhnik](https://www.laurentbouhnik.com)
+
 - I contributed to the growth of the company Careerjet Ltd, recruiting hard to find profiles
-- Please find all my most recent projects here : # [Laurent Bouhnik](https://www.laurentbouhnik.com)
 
 ## Education
 
