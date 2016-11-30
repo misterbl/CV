@@ -27,20 +27,20 @@ I have created a food delivery business in Mexico. For 2 years I managed the who
 
 
 #### Projects
-- Haysta:k, a chrome extension that help developers (and the general public) find answer to PAQs.
-      . Team of 6
-      . 5 days
-      . Technologies used: Javascript, Jquery, HTML, CSS
+* Haysta:k, a chrome extension that help developers (and the general public) find answer to PAQs.
+  * Team of 6
+  * 5 days
+  * Technologies used: Javascript, Jquery, HTML, CSS
 
 - Vitagram, a copy of Instagram
-      . On my own
-      . 2 days
-      . Technologies used: Javascript, Jquery, HTML, CSS, Bootstrap
+  * On my own
+  * 2 days
+  * Technologies used: Javascript, Jquery, HTML, CSS, Bootstrap
 
 - MakersBnb, a copy of the famous Airbnb website
-      . Team of 4
-      . 5 days
-      . New technologies learned and used: Node JS, Express, Sequelize
+  * Team of 4
+  * 5 days
+  * New technologies learned and used: Node JS, Express, Sequelize
 
   Please find all my most recent projects here : # [Laurent Bouhnik](https://www.laurentbouhnik.com)
 
