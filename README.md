@@ -31,16 +31,20 @@ I have created a food delivery business in Mexico. For 2 years I managed the who
   * Team of 6
   * 5 days
   * Technologies used: Javascript, Jquery, HTML, CSS
+You can download the extension here: https://chrome.google.com/webstore/detail/haystak/menbljajicjikigkpahaonmcjhmjknpo?utm_source=gmail
 
 - Vitagram, a copy of Instagram
   * On my own
   * 2 days
   * Technologies used: Javascript, Jquery, HTML, CSS, Bootstrap
+You can have a look at Vitagram here: https://vitagram.herokuapp.com
 
 - MakersBnb, a copy of the famous Airbnb website
   * Team of 4
   * 5 days
   * New technologies learned and used: Node JS, Express, Sequelize
+You can have a look at Makerbnb here: https://makersbnb2016.herokuapp.com/
+
 
   Please find all my most recent projects here : # [Laurent Bouhnik](https://www.laurentbouhnik.com)
 
