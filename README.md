@@ -27,7 +27,7 @@ I have created a food delivery business in Mexico. For 2 years I managed the who
 
 
 #### Projects
-* Haysta:k, a chrome extension that help developers (and the general public) find answer to PAQs.
+* Haysta:k, a chrome extension that helps developers (and the general public) find answer to PAQs.
   * Team of 6
   * 5 days
   * Technologies used: Javascript, Jquery, HTML, CSS
