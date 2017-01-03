@@ -27,6 +27,12 @@ I have created a food delivery business in Mexico. For 2 years I managed the who
 
 
 #### Projects
+- Ensemble, a platform for music collaboration.
+  * Team of 5
+  * 7 days
+  * Technologies used: Ruby, Rails, Html, Css, Bootstrap, Javascript
+  You can have a look at Ensemble here: http://ensemble-app.herokuapp.com
+
 * Haysta:k, a chrome extension that helps developers (and the general public) find answer to PAQs.
   * Team of 6
   * 5 days
