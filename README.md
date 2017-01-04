@@ -1,8 +1,8 @@
 ## Laurent Bouhnik
 
-I  am Junior Full Stack Developer.
+I  am a Junior Full Stack Developer.
 
-Recent graduate from one of Europe most successful dev bootcamps, I have 10 years experience in recruitment, client relationship and team management.
+Recent graduate from one of Europe's most successful dev bootcamps, I have 10 years experience in recruitment, client relationship and team management.
 I have experience in following agile methodologies for project development, working comfortably on my own and within a team.
 
 ## Skills
@@ -26,7 +26,7 @@ During my time at Makers Academy, in only 12 weeks, I have learned so many new t
 I have created a food delivery business in Mexico. For 2 years I managed the whole process from creating the brand, menu to marketing, recruiting, managing the staff and financial forecast, before selling the business.
 
 
-#### Projects
+## Projects
 - Ensemble, a platform for music collaboration.
   * Team of 5
   * 7 days
